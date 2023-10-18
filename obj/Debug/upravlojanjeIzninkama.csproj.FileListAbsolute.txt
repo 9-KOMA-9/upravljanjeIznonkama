@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\bin\Debug\upravlojanjeIzninkama.exe.config
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\bin\Debug\upravlojanjeIzninkama.exe
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\bin\Debug\upravlojanjeIzninkama.pdb
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.Form1.resources
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.Properties.Resources.resources
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.exe
+C:\Users\ucenik\source\repos\upravlojanjeIzninkama\obj\Debug\upravlojanjeIzninkama.pdb
